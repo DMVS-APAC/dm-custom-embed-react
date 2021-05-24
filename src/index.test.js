@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import DmCustomEmbed from '.'
 
-describe('ExampleComponent', () => {
+describe('DmCustomEmbed', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(DmCustomEmbed).toBeTruthy()
   })
 })
