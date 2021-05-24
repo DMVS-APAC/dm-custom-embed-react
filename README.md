@@ -16,7 +16,6 @@ npm install --save dm-custom-embed-react
 mport React, { Component } from 'react'
 
 import DmCustomEmbedm from 'react-dm-custom-embed'
-import 'react-dm-custom-embed/dist/index.css'
 
 class Example extends Component {
   render() {
