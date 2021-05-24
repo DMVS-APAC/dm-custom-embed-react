@@ -13,18 +13,22 @@ npm install --save dm-custom-embed-react
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+mport React, { Component } from 'react'
 
-import MyComponent from 'dm-custom-embed-react'
-import 'dm-custom-embed-react/dist/index.css'
+import DmCustomEmbedm from 'react-dm-custom-embed'
+import 'react-dm-custom-embed/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <DmCustomEmbedm [props] />
   }
 }
 ```
 
+Check out all the props availble here [Parameters Available](https://dmvs-apac.github.io/custom-embed-v2/#parameters-available)
+
 ## License
 
 MIT © [DMVS-APAC](https://github.com/DMVS-APAC)
+
+
