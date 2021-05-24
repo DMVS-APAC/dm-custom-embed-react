@@ -20,12 +20,18 @@ import 'react-dm-custom-embed/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <DmCustomEmbedm [props] />
+    return <DmCustomEmbedm playerid="{PLAYER_ID}" sort="relevance" owners="{YOUR_CHANNEL_NAME}" /> />
   }
 }
 ```
+---
+**NOTE**
 
-Check out all the props availble here [Parameters Available](https://dmvs-apac.github.io/custom-embed-v2/#parameters-available)
+All the attributes should be lowercase for ReactJs. Check out all the attributes availble here [Parameters Available](https://dmvs-apac.github.io/custom-embed-v2/#parameters-available)
+
+---
+
+[Example page](https://dmvs-apac.github.io/dm-custom-embed-react/)
 
 ## License
 
