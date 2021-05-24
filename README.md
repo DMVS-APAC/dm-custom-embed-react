@@ -15,7 +15,7 @@ npm install --save dm-custom-embed-react
 ```jsx
 mport React, { Component } from 'react'
 
-import DmCustomEmbedm from 'react-dm-custom-embed'
+import DmCustomEmbedm from 'dm-custom-embed-react'
 
 class Example extends Component {
   render() {

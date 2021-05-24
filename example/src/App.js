@@ -1,6 +1,6 @@
 import React from 'react'
 
-import DmCustomEmbedm from 'dm-custom-embed-react'
+import DmCustomEmbedm from 'dm-custom-embed-react';
 import 'dm-custom-embed-react/dist/index.css'
 
 class App extends React.Component {
