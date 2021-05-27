@@ -4,7 +4,7 @@
   "description": "Dailymotion custom embed solution for react",
   "author": "DMVS-APAC",
   "license": "MIT",
-  "repository": "DMVS-APAC/dm-custom-embed-react",
+  "repository": "https://github.com/DMVS-APAC/dm-custom-embed-react/",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
