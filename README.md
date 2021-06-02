@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install --save dm-custom-embed-react
+npm install --save @dmvs-apac/dm-custom-embed-react
 ```
 
 ## Usage
 
 ```jsx
-mport React, { Component } from 'react'
+import React, { Component } from 'react'
 
 import DmCustomEmbedm from 'dm-custom-embed-react'
 
