@@ -15,7 +15,7 @@ npm install --save @dmvs-apac/dm-custom-embed-react
 ```jsx
 import React, { Component } from 'react'
 
-import DmCustomEmbedm from 'dm-custom-embed-react'
+import DmCustomEmbedm from '@dmvs-apac/dm-custom-embed-react'
 
 class Example extends Component {
   render() {
